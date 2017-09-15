@@ -38,19 +38,19 @@ A Complete Picture
 
 My demo application system has at least seven services:
 
-<img src="services1.svg" style="height: 30vh; background: white;" alt="Services">
+<img src="services1.svg" style="height: 60vh; background: white;" alt="Services">
 
 ^
 
 ## Querying data
 
-<img src="query.svg" style="height: 40vh; background: white;" alt="Querying data">
+<img src="query.svg" style="height: 80vh; background: white;" alt="Querying data">
 
 ^
 
 ## Creating a new row
 
-<img src="create-new-row.svg" style="height: 40vh; background: white;" alt="Creating a new row">
+<img src="create-new-row.svg" style="height: 80vh; background: white;" alt="Creating a new row">
 
 ^
 
@@ -58,19 +58,19 @@ My demo application system has at least seven services:
 
 More advanced architecture has more services:
 
-<img src="services2.svg" style="height: 30vh; background: white;" alt="More Services">
+<img src="services2.svg" style="height: 60vh; background: white;" alt="More Services">
 
 ^
 
-## Querying data with CQRS/ES
+## Querying data with CQRS/Event Sourcing
 
-<img src="es-query.svg" style="height: 40vh; background: white;" alt="Querying data with CQRS/Event Sourcing">
+<img src="es-query.svg" style="height: 80vh; background: white;" alt="Querying data with CQRS/Event Sourcing">
 
 ^
 
-## Creating a new row with CQRS/ES
+## Creating a new row with CQRS/Event Sourcing
 
-<img src="es-create-new-row.svg" style="height: 40vh; background: white;" alt="Creating a new row with CQRS/Event Sourcing">
+<img src="es-create-new-row.svg" style="height: 80vh; background: white;" alt="Creating a new row with CQRS/Event Sourcing">
 
 
 ---
