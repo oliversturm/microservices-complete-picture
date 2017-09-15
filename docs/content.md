@@ -58,7 +58,7 @@ My demo application system has at least seven services:
 
 More advanced architecture has more services:
 
-<img src="services2.svg" style="height: 60vh; background: white;" alt="More Services">
+<img src="services2.svg" style="background: white;" alt="More Services">
 
 ^
 
@@ -70,7 +70,7 @@ More advanced architecture has more services:
 
 ## Creating a new row with CQRS/Event Sourcing
 
-<img src="es-create-new-row.svg" style="height: 70vh; background: white;" alt="Creating a new row with CQRS/Event Sourcing">
+<img src="es-create-new-row.svg" style="background: white;" alt="Creating a new row with CQRS/Event Sourcing">
 
 
 ---
