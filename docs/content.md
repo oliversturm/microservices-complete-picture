@@ -44,13 +44,13 @@ My demo application system has at least seven services:
 
 ## Querying data
 
-<img src="query.svg" style="height: 80vh; background: white;" alt="Querying data">
+<img src="query.svg" style="height: 70vh; background: white;" alt="Querying data">
 
 ^
 
 ## Creating a new row
 
-<img src="create-new-row.svg" style="height: 80vh; background: white;" alt="Creating a new row">
+<img src="create-new-row.svg" style="height: 70vh; background: white;" alt="Creating a new row">
 
 ^
 
@@ -64,13 +64,13 @@ More advanced architecture has more services:
 
 ## Querying data with CQRS/Event Sourcing
 
-<img src="es-query.svg" style="height: 80vh; background: white;" alt="Querying data with CQRS/Event Sourcing">
+<img src="es-query.svg" style="height: 70vh; background: white;" alt="Querying data with CQRS/Event Sourcing">
 
 ^
 
 ## Creating a new row with CQRS/Event Sourcing
 
-<img src="es-create-new-row.svg" style="height: 80vh; background: white;" alt="Creating a new row with CQRS/Event Sourcing">
+<img src="es-create-new-row.svg" style="height: 70vh; background: white;" alt="Creating a new row with CQRS/Event Sourcing">
 
 
 ---
