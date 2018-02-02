@@ -123,7 +123,7 @@ Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
 
 ---
 
-## How does the talking work?
+## How does the Talking Work?
 
 * Each service could be an _open web service_ with its own external interface. REST? Proprietary? Your choice.
 * Each service could be implemented to _talk to the broker exclusively_
@@ -131,7 +131,7 @@ Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
 
 ---
 
-## Packaging/deployment
+## Packaging/Deployment
 
 * Running lots of services manually isn't much fun
   * Consider _automation_
