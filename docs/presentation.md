@@ -1,5 +1,5 @@
 title: Microservices
-subtitle: A Complete Picture
+subtitle: An (Almost?) Complete Picture
 class: animation-fade
 layout: true
 
@@ -49,6 +49,16 @@ Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
   * Real-world deployment with AWS
 * Developer stuff
   * Debugging
+* And what about Serverless?
+
+---
+
+## Major Goals of Microservice Architectures
+
+* Services should be easily maintainable _building blocks_
+* _Separation of concerns_ and responsibilities, technically and in development teams
+* Benefit from _skills_ and _technological advancements_
+* Long-term security for investments through _modularization_
 
 ---
 
@@ -145,6 +155,23 @@ Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
 * _Granularity_ of services makes it easy to test
 * Services can be debugged as _individual autonomous entities_
   * Best regards from functional programming!
+
+---
+
+## And what about Serverless?
+
+* These considerations still apply:
+  * Structural aspects
+  * Communication
+* Per platform, choices are made for us in order to save work
+
+  * Communication
+  * Deployment
+  * General service environment
+
+* Some aspects, like testing and debugging, get way more complicated...
+
+* Serverless is Microservices taken to extremes &mdash; but also without some of the benefits!
 
 ---
 
